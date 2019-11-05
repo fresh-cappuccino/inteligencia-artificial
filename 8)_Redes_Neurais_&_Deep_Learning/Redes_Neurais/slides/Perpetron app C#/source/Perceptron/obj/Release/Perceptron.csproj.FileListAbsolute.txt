@@ -1,0 +1,8 @@
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\bin\Release\Perceptron.exe
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\bin\Release\Perceptron.pdb
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\obj\Release\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\obj\Release\Perceptron.frmMain.resources
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\obj\Release\Perceptron.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\obj\Release\Perceptron.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\obj\Release\Perceptron.exe
+C:\Users\Fernando\Desktop\Perceptron\Perceptron\obj\Release\Perceptron.pdb
